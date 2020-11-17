@@ -1,0 +1,59 @@
+{
+  "anuncio_mascota": [
+    {
+      "titulo": "Venta de Bulldog",
+      "transaccion": "venta",
+      "descripcion": "Venta de Perro Bulldog con vacunas al dia",
+      "precio": "8",
+      "animal": "gato",
+      "raza": "bulldog",
+      "fecha_nacimiento": "2020-11-04",
+      "vacuna": "si",
+      "id": 2
+    },
+    {
+      "titulo": "Venta de Bulldog",
+      "transaccion": "venta",
+      "descripcion": "Venta de Perro Bulldog con vacunas al dia",
+      "precio": "55",
+      "animal": "perro",
+      "raza": "bulldog",
+      "fecha_nacimiento": "2020-11-10",
+      "vacuna": "si",
+      "id": 3
+    },
+    {
+      "titulo": "Venta de Bulldog",
+      "transaccion": "venta",
+      "descripcion": "Venta de Perro Bulldog con vacunas al dia",
+      "precio": "7",
+      "animal": "perro",
+      "raza": "bulldog",
+      "fecha_nacimiento": "2020-11-19",
+      "vacuna": "si",
+      "id": 4
+    },
+    {
+      "titulo": "venta de gato",
+      "transaccion": "venta",
+      "descripcion": "gato claro",
+      "precio": "60",
+      "animal": "gato",
+      "raza": "persa",
+      "fecha_nacimiento": "2020-11-06",
+      "vacuna": "no",
+      "id": 10
+    },
+    {
+      "titulo": "Venta de Galgo",
+      "transaccion": "venta",
+      "descripcion": "Perro galgo para carreras",
+      "precio": "50",
+      "animal": "perro",
+      "raza": "Galgo",
+      "fecha_nacimiento": "2020-11-04",
+      "vacuna": "si",
+      "id": 11
+    }
+  ]
+}
